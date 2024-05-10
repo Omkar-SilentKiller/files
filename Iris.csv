@@ -1,0 +1,691 @@
+sepal.length,sepal.width,petal.length,petal.width,variety,,,,,,,,,,,,,,,,,,,,,
+5.1,3.5,1.4,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.9,3,1.4,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.7,3.2,1.3,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.6,3.1,1.5,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5,3.6,1.4,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.4,3.9,1.7,0.4,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.6,3.4,1.4,0.3,Setosa,,,,,,,,,,,,,,,,,,,,,
+5,3.4,1.5,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.4,2.9,1.4,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.9,3.1,1.5,0.1,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.4,3.7,1.5,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.8,3.4,1.6,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.8,3,1.4,0.1,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.3,3,1.1,0.1,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.8,4,1.2,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.7,4.4,1.5,0.4,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.4,3.9,1.3,0.4,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.1,3.5,1.4,0.3,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.7,3.8,1.7,0.3,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.1,3.8,1.5,0.3,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.4,3.4,1.7,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.1,3.7,1.5,0.4,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.6,3.6,1,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.1,3.3,1.7,0.5,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.8,3.4,1.9,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5,3,1.6,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5,3.4,1.6,0.4,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.2,3.5,1.5,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.2,3.4,1.4,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.7,3.2,1.6,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.8,3.1,1.6,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.4,3.4,1.5,0.4,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.2,4.1,1.5,0.1,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.5,4.2,1.4,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.9,3.1,1.5,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5,3.2,1.2,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.5,3.5,1.3,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.9,3.6,1.4,0.1,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.4,3,1.3,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.1,3.4,1.5,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5,3.5,1.3,0.3,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.5,2.3,1.3,0.3,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.4,3.2,1.3,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5,3.5,1.6,0.6,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.1,3.8,1.9,0.4,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.8,3,1.4,0.3,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.1,3.8,1.6,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+4.6,3.2,1.4,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5.3,3.7,1.5,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+5,3.3,1.4,0.2,Setosa,,,,,,,,,,,,,,,,,,,,,
+7,3.2,4.7,1.4,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.4,3.2,4.5,1.5,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.9,3.1,4.9,1.5,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.5,2.3,4,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.5,2.8,4.6,1.5,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.7,2.8,4.5,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.3,3.3,4.7,1.6,Versicolor,,,,,,,,,,,,,,,,,,,,,
+4.9,2.4,3.3,1,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.6,2.9,4.6,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.2,2.7,3.9,1.4,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5,2,3.5,1,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.9,3,4.2,1.5,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6,2.2,4,1,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.1,2.9,4.7,1.4,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.6,2.9,3.6,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.7,3.1,4.4,1.4,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.6,3,4.5,1.5,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.8,2.7,4.1,1,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.2,2.2,4.5,1.5,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.6,2.5,3.9,1.1,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.9,3.2,4.8,1.8,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.1,2.8,4,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.3,2.5,4.9,1.5,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.1,2.8,4.7,1.2,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.4,2.9,4.3,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.6,3,4.4,1.4,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.8,2.8,4.8,1.4,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.7,3,5,1.7,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6,2.9,4.5,1.5,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.7,2.6,3.5,1,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.5,2.4,3.8,1.1,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.5,2.4,3.7,1,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.8,2.7,3.9,1.2,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6,2.7,5.1,1.6,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.4,3,4.5,1.5,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6,3.4,4.5,1.6,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.7,3.1,4.7,1.5,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.3,2.3,4.4,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.6,3,4.1,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.5,2.5,4,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.5,2.6,4.4,1.2,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.1,3,4.6,1.4,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.8,2.6,4,1.2,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5,2.3,3.3,1,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.6,2.7,4.2,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.7,3,4.2,1.2,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.7,2.9,4.2,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.2,2.9,4.3,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.1,2.5,3,1.1,Versicolor,,,,,,,,,,,,,,,,,,,,,
+5.7,2.8,4.1,1.3,Versicolor,,,,,,,,,,,,,,,,,,,,,
+6.3,3.3,6,2.5,Virginica,,,,,,,,,,,,,,,,,,,,,
+5.8,2.7,5.1,1.9,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.1,3,5.9,2.1,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.3,2.9,5.6,1.8,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.5,3,5.8,2.2,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.6,3,6.6,2.1,Virginica,,,,,,,,,,,,,,,,,,,,,
+4.9,2.5,4.5,1.7,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.3,2.9,6.3,1.8,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.7,2.5,5.8,1.8,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.2,3.6,6.1,2.5,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.5,3.2,5.1,2,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.4,2.7,5.3,1.9,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.8,3,5.5,2.1,Virginica,,,,,,,,,,,,,,,,,,,,,
+5.7,2.5,5,2,Virginica,,,,,,,,,,,,,,,,,,,,,
+5.8,2.8,5.1,2.4,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.4,3.2,5.3,2.3,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.5,3,5.5,1.8,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.7,3.8,6.7,2.2,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.7,2.6,6.9,2.3,Virginica,,,,,,,,,,,,,,,,,,,,,
+6,2.2,5,1.5,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.9,3.2,5.7,2.3,Virginica,,,,,,,,,,,,,,,,,,,,,
+5.6,2.8,4.9,2,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.7,2.8,6.7,2,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.3,2.7,4.9,1.8,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.7,3.3,5.7,2.1,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.2,3.2,6,1.8,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.2,2.8,4.8,1.8,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.1,3,4.9,1.8,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.4,2.8,5.6,2.1,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.2,3,5.8,1.6,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.4,2.8,6.1,1.9,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.9,3.8,6.4,2,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.4,2.8,5.6,2.2,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.3,2.8,5.1,1.5,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.1,2.6,5.6,1.4,Virginica,,,,,,,,,,,,,,,,,,,,,
+7.7,3,6.1,2.3,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.3,3.4,5.6,2.4,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.4,3.1,5.5,1.8,Virginica,,,,,,,,,,,,,,,,,,,,,
+6,3,4.8,1.8,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.9,3.1,5.4,2.1,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.7,3.1,5.6,2.4,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.9,3.1,5.1,2.3,Virginica,,,,,,,,,,,,,,,,,,,,,
+5.8,2.7,5.1,1.9,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.8,3.2,5.9,2.3,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.7,3.3,5.7,2.5,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.7,3,5.2,2.3,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.3,2.5,5,1.9,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.5,3,5.2,2,Virginica,,,,,,,,,,,,,,,,,,,,,
+6.2,3.4,5.4,2.3,Virginica,,,,,,,,,,,,,,,,,,,,,
+5.9,3,5.1,1.8,Virginica,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,"#prac-9
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.datasets import load_iris
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
+
+iris = load_iris()
+iris_df = pd.DataFrame(data=np.c_[iris['data'], iris['target']], columns=iris['feature_names'] + ['target'])
+X = iris_df.drop('target', axis=1)
+y = iris_df['target']
+
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+pca = PCA()
+X_pca = pca.fit_transform(X_scaled)
+explained_variance_ratio = pca.explained_variance_ratio_
+
+plt.figure(figsize=(8, 6))
+plt.plot(np.cumsum(explained_variance_ratio), marker='o', linestyle='--')
+plt.title('Explained Variance Ratio')
+plt.xlabel('Number of Principal Components')
+plt.ylabel('Cumulative Explained Variance Ratio')
+plt.grid(True)
+
+plt.show()
+
+cumulative_variance_ratio = np.cumsum(explained_variance_ratio)
+n_components = np.argmax(cumulative_variance_ratio >= 0.95) + 1
+print(f""Number of principal components to explain 95% variance: {n_components}"")
+
+
+pca = PCA(n_components=n_components)
+X_reduced = pca.fit_transform(X_scaled)
+
+plt.figure(figsize=(8, 6))
+plt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=y, cmap='viridis', s=50, alpha=0.5)
+plt.title('Data in Reduced-dimensional Space')
+plt.xlabel('Principal Component 1')
+plt.ylabel('Principal Component 2')
+plt.colorbar(label='Target')
+plt.show()","#prac-8
+import pandas as pd
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.cluster import KMeans
+import matplotlib.pyplot as plt
+
+# Read the data
+data = pd.read_csv(""wholesale.csv"")
+
+# Identify categorical and continuous features
+categorical_features = ['Channel', 'Region']
+continuous_features = ['Fresh', 'Milk', 'Grocery', 'Frozen', 'Detergents_Paper', 'Delicassen']
+
+# One-hot encode categorical features
+for col in categorical_features:
+    dummies = pd.get_dummies(data[col], prefix=col)
+    data = pd.concat([data, dummies], axis=1)
+    data.drop(col, axis=1, inplace=True)  # Drop original categorical columns
+
+# Normalize continuous features
+mms = MinMaxScaler()
+data_transformed = mms.fit_transform(data)
+
+# Determine the optimal number of clusters using the Elbow Method
+sum_of_squared_distances = []
+K = range(1, 15)
+
+# Perform K-Means clustering for each k and record the inertia (sum of squared distances)
+for k in K:
+    km = KMeans(n_clusters=k, random_state=42)  # Set random_state for reproducibility
+    km.fit(data_transformed)  # Fit the K-Means model
+    sum_of_squared_distances.append(km.inertia_)  # Record the inertia
+
+# Plot the Elbow Method
+plt.plot(K, sum_of_squared_distances, 'bx-')  # Plot inertia against k
+plt.xlabel('Number of clusters (k)')
+plt.ylabel('Sum of squared distances')
+plt.title('Elbow Method for Optimal k')
+plt.show()","import numpy as np
+import pandas as pd
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import accuracy_score, precision_score, recall_score, classification_report
+
+# Load Iris dataset and create binary classification problem
+iris = load_iris()
+X, y = iris.data[iris.target != 2], iris.target[iris.target != 2]
+
+# Split data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Logistic Regression
+logistic_model = LogisticRegression().fit(X_train, y_train)
+y_pred_logistic = logistic_model.predict(X_test)
+print(""Logistic Regression Metrics"")
+print(""Accuracy:"", accuracy_score(y_test, y_pred_logistic))
+print(""Precision:"", precision_score(y_test, y_pred_logistic))
+print(""Recall:"", recall_score(y_test, y_pred_logistic))
+print(""\nClassification Report"")
+print(classification_report(y_test, y_pred_logistic))
+
+# Decision Tree
+tree_model = DecisionTreeClassifier().fit(X_train, y_train)
+y_pred_tree = tree_model.predict(X_test)
+print(""\nDecision Tree Metrics"")
+print(""Accuracy:"", accuracy_score(y_test, y_pred_tree))
+print(""Precision:"", precision_score(y_test, y_pred_tree))
+print(""Recall:"", recall_score(y_test, y_pred_tree))
+print(""\nClassification Report"")
+print(classification_report(y_test, y_pred_tree))","#prac-6
+import numpy as np
+import pandas as pd
+from sklearn.datasets import fetch_california_housing
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error, r2_score
+
+
+housing = fetch_california_housing()
+housing_df = pd.DataFrame(housing.data, columns=housing.feature_names)
+print(housing_df)
+
+housing_df['PRICE'] = housing.target
+
+
+X = housing_df[['AveRooms']]
+y = housing_df['PRICE']
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+
+model = LinearRegression()
+
+
+model.fit(X_train, y_train)
+
+
+mse = mean_squared_error(y_test, model.predict(X_test))
+r2 = r2_score(y_test, model.predict(X_test))
+
+print(""Mean Squared Error:"", mse)
+print(""R-squared:"", r2)
+print(""Intercept:"", model.intercept_)
+print(""Coefficient:"", model.coef_)
+
+
+#Multiple Liner Regression
+
+
+X = housing_df.drop('PRICE',axis=1)
+y = housing_df['PRICE']
+
+X_train,X_test,y_train,y_test = train_test_split(X,y,test_size=0.2,random_state=42)
+model = LinearRegression()
+model.fit(X_train,y_train)
+
+y_pred = model.predict(X_test)
+
+
+mse = mean_squared_error(y_test,y_pred)
+r2 = r2_score(y_test,y_pred)
+
+print(""Mean Squared Error:"",mse)
+print(""R-squared:"",r2)
+print(""Intercept:"",model.intercept_)
+print(""Coefficient:"",model.coef_)
+","#prac-5
+import pandas as pd
+import scipy.stats as stats
+from statsmodels.stats.multicomp import pairwise_tukeyhsd
+
+group1 = [23,25,29,34,30]
+group2 = [19,20,22,24,25]
+group3 = [15,18,20,21,17]
+group4 = [28,24,26,30,29]
+
+all_data = group1 + group2 + group3 + group4
+group_labels = ['Group1']*len(group1) + ['Group2']*len(group2) + ['Group3']*len(group3) + ['Group4']*len(group4)
+f_statistics, p_value = stats.f_oneway(group1 , group2, group3 , group4 )
+print(""one way ANOVA "")
+print(""F-statistics:"" , f_statistics)
+print(""p-value"" , p_value)
+
+tukey_result = pairwise_tukeyhsd(all_data , group_labels)
+print(""\n Tukey-k post-hoc test :"")
+print(tukey_result)","#chisquare
+import pandas as pd
+import seaborn as sb
+from scipy import stats
+
+# Load dataset
+df = sb.load_dataset('mpg')
+print(df)
+
+# Define bins for horsepower and model_year, and create new categorical columns
+hp_bins = [0, 75, 150, 240]
+df['horsepower_cat'] = pd.cut(df['horsepower'], bins=hp_bins, labels=['i', 'm', 'h'])
+
+year_bins = [69, 72, 74, 84]
+df['model_year_cat'] = pd.cut(df['model_year'], bins=year_bins, labels=['t1', 't2', 't3'])
+
+# Create a contingency table
+contingency_table = pd.crosstab(df['horsepower_cat'], df['model_year_cat'])
+
+# Perform Chi-square test
+chi2, p, dof, expected = stats.chi2_contingency(contingency_table)
+
+print(""Contingency Table:"")
+print(contingency_table)
+
+print(""\nChi-square Test Result:"")
+print(f""Chi-square: {chi2}, p-value: {p}, degrees of freedom: {dof}"")                                                          
+# t-testimport numpy as np
+from scipy import stats
+import matplotlib.pyplot as plt
+
+# Generate two samples
+np.random.seed(42)
+sample1 = np.random.normal(10, 2, 30)
+sample2 = np.random.normal(12, 2, 30)
+
+# Perform t-test
+t_stat, p_val = stats.ttest_ind(sample1, sample2)
+
+# Set significance level
+alpha = 0.05
+
+print(""T-test Result:"")
+print(f""T-statistic: {t_stat:.2f}"")
+print(f""P-value: {p_val:.2e}"")
+
+# Plot distributions
+plt.figure(figsize=(8, 5))
+plt.hist([sample1, sample2], color=['blue', 'orange'], alpha=0.5, label=['Sample 1', 'Sample 2'])
+plt.axvline(np.mean(sample1), color='blue', linestyle='dashed', linewidth=2, label='Mean of Sample 1')
+plt.axvline(np.mean(sample2), color='orange', linestyle='dashed', linewidth=2, label='Mean of Sample 2')
+plt.xlabel('Values')
+plt.ylabel('Frequency')
+plt.title('Distributions of Sample 1 and Sample 2')
+plt.legend()
+
+# Highlight critical region if null hypothesis is rejected
+if p_val < alpha:
+    plt.fill_betweenx([0, plt.gca().get_ylim()[1]], np.mean(sample1), np.mean(sample2), color='red', alpha=0.3, label='Critical region')
+    plt.legend()
+
+plt.show()
+
+# Conclusion
+if p_val < alpha:
+    if np.mean(sample1) > np.mean(sample2):
+        print(""Conclusion: Reject the null hypothesis. Sample 1 mean is significantly higher."")
+    else:
+        print(""Conclusion: Reject the null hypothesis. Sample 2 mean is significantly higher."")
+else:
+    print(""Conclusion: Fail to reject the null hypothesis. No significant difference."")
+","p-3-a   #prac-3-A
+import pandas as pd
+#import matplotlib.pyplot as plt
+from sklearn.preprocessing import MinMaxScaler , StandardScaler
+
+df = pd.read_csv('wine.csv' , header = None , usecols = [0,1,2], skiprows = 1)
+df.columns = ['classlabel','Alcohol','Malic Acid']
+print(""Original DataFrame: "")
+print(df)
+
+scaling = MinMaxScaler()
+scaled_value = scaling.fit_transform(df[['Alcohol','Malic Acid']])
+df[['Alcohol' , 'Malic Acid']] = scaled_value
+print(""\n Dataframe after minMax scaling "")
+print(df)
+
+scaling = StandardScaler()
+scaled_standardvalue = scaling.fit_transform(df[['Alcohol','Malic Acid']])
+df[['Alcohol','Malic Acid']] = scaled_standardvalue
+print(""\n Dataframe after Standard Scaling "" )
+print(df)
+ p-3-b #prac-3-B
+import pandas as pd
+iris = pd.read_csv(""iris.csv"")
+print(iris)
+
+from sklearn.preprocessing import LabelEncoder
+le = LabelEncoder()
+iris['code'] = le.fit_transform(iris.variety)
+print(iris)
+"
